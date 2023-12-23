@@ -3,10 +3,8 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/logo-dark.png">
       <img width="160" height="160" src="https://github.com/Gozargah/Marzban-docs/raw/master/screenshots/logo-light.png">
-	   
     </picture>
   </a>
-   <img src="https://freeimage.host/i/JRJdRvs">
 </p>
 
 <h1 align="center"/>مرزبان</h1>
