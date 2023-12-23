@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<h1 align="center"/>مرزبان</h1>
+<h1 align="center"/>ارائه کانفیگ V2RAY قابل اجرا بر روی همه سیستم ها</h1>
 
 <p align="center">
      راه حل یکپارچه برای مدیریت پروتکل های مختلف. قدرت گرفته از <a href="https://github.com/XTLS/Xray-core">Xray</a>
