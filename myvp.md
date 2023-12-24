@@ -19,7 +19,7 @@
 
 <p align="center" dir="rtl">
 <a href="https://wba.uuvp.shop" target="_blank" rel="noopener noreferrer" >
-    <img src="https://raw.githubusercontent.com/sevinvp/myvp/main/website-design.jpg" alt="" width="60%" height="auto">
+    <img src="https://raw.githubusercontent.com/sevinvp/myvp/main/website-design.jpg" alt="" width="75%" height="auto">
 </a>
 </p>
 
@@ -33,7 +33,7 @@
 
 <p align="center" dir="rtl">
 <a href="https://wba.uuvp.shop" target="_blank" rel="noopener noreferrer" >
-    <img src="https://raw.githubusercontent.com/sevinvp/myvp/main/supp.png" alt="" width="80%" height="auto">
+    <img src="https://raw.githubusercontent.com/sevinvp/myvp/main/supp.png" alt="" width="90%" height="auto">
 </a>
 </p>
 
